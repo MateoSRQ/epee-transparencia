@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b474ae-7f89-470a-9901-a97ab923ecb3" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/epee-transparencia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/files/MV37 - PLAN DE CRECIMIENTO INSTITUCIONAL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/files/PLAN ANUAL DE TRABAJO -PAT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/files/PROYECTO EDUCATIVO INSTITUCIONAL - PEI.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/files/REGLAMENTO DE HOSTIGAMIENTO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/public/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/public/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transparencia/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transparencia/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/transparencia/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MateoSRQ"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MateoSRQ/epee-transparencia.git",
+    "accountId": "abaed2ea-99da-4393-ae40-4893540a398c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -84,8 +69,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773355058470</updated>
-      <workItem from="1773355059445" duration="4376000" />
+      <workItem from="1773355059445" duration="5345000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1773363198677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773363198677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
