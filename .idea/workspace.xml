@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b474ae-7f89-470a-9901-a97ab923ecb3" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/.idea/epee-transparencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/files/MV37 - PLAN DE CRECIMIENTO INSTITUCIONAL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/files/PLAN ANUAL DE TRABAJO -PAT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/files/PROYECTO EDUCATIVO INSTITUCIONAL - PEI.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/files/REGLAMENTO DE HOSTIGAMIENTO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transparencia/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AreL5ChmfSXQ9nbHENC1TWXGNH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/mateo/projects/epee-transparencia/transparencia/files",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/mateo/projects/epee-transparencia/transparencia/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/transparencia/files" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b474ae-7f89-470a-9901-a97ab923ecb3" name="Changes" comment="" />
+      <created>1773355058470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773355058470</updated>
+      <workItem from="1773355059445" duration="4376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+</project>
